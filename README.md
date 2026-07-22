@@ -25,15 +25,15 @@ I build software faster and better using:
 
 ## About Me
 
-**Name:** [Your name]
+**Name:** Ian Alejandro Maciel Romo
 **Focus:** AI-assisted development, prompt engineering, documentation-driven development
 **Tech Stack:** Next.js, TypeScript, SQLite, AI tools
 
 ## Contact
 
-- GitHub: [your-username]
-- LinkedIn: [your-linkedin]
-- Email: [your-email]
+- GitHub: [Mazielx](https://github.com/Mazielx)
+- Email: ianmazielromo@gmail.com
+- Phone: +52 477 914 8117
 
 ---
 
