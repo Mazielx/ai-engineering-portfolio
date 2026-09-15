@@ -5,16 +5,39 @@
 
 ---
 
+## Resumen Ejecutivo
+
+Desarrollador fullstack especializado en la construcción de productos SaaS de extremo a extremo: desde la especificación de producto y el diseño de arquitectura hasta la implementación, el hardening de seguridad y el deploy en producción.
+
+**Stack principal:** Next.js (App Router) · React · TypeScript · Prisma · PostgreSQL · SQLite/Turso · React Native/Expo · Tailwind CSS · Docker · Vercel
+
+**Lo que construyo:**
+- Productos SaaS multi-tenant con aislamiento de datos por diseño
+- Motores de renderizado y procesamiento propios (PDF, imágenes, optimización)
+- Sistemas con billing, autenticación endurecida y APIs públicas versionadas
+- Aplicaciones móviles con arquitectura hexagonal y motores de optimización puros
+
+**Resultados verificables:**
+- 6 productos SaaS construidos de extremo a extremo
+- 240+ tests automatizados en el proyecto más maduro (RBAC, billing, políticas)
+- Auditorías de seguridad con 67 vulnerabilidades corregidas
+- Pruebas E2E de flujos completos de usuario (14/14 checks)
+- Deploys continuos a producción en Vercel
+
+> **Nota sobre repositorios:** el código fuente de los proyectos es privado para proteger la propiedad intelectual. Los proyectos se presentan mediante demos, documentación de arquitectura y case studies — disponibles bajo solicitud o NDA.
+
+---
+
 ## Índice de Proyectos
 
 | Proyecto | Repo | Stack principal | Estado |
 |---|---|---|---|
-| [Moirauder](#moirauder) | `Mazielx/moirauder` | Next.js 15, Turborepo, Prisma, PostgreSQL | En desarrollo |
-| [Inkora](#inkora) | `Mazielx/inkora` | Next.js 16, Prisma, OpenCV, PDF | MVP funcional |
-| [Facturas](#facturas) | `Mazielx/Facturas` | Next.js 16, SQLite/Turso, multi-tenant | MVP completo |
-| [Shyftex](#shyftex) | `Mazielx/shyftex` | React Native/Expo, Prisma, PostgreSQL | En desarrollo |
-| [Tenzi](#tenzi) | `Mazielx/tenzi` | Next.js 16, Prisma, Tailwind | Frontend + modelo de datos |
-| [Ghork](#ghork) | `Mazielx/ghork` | Next.js 15, Prisma, Stripe | MVP + hardening |
+| [Moirauder](#moirauder) | `Mazielx/moirauder` (privado) | Next.js 15, Turborepo, Prisma, PostgreSQL | En desarrollo |
+| [Inkora](#inkora) | `Mazielx/inkora` (privado) | Next.js 16, Prisma, OpenCV, PDF | MVP funcional |
+| [Facturas](#facturas) | `Mazielx/Facturas` (privado) | Next.js 16, SQLite/Turso, multi-tenant | MVP completo |
+| [Shyftex](#shyftex) | `Mazielx/shyftex` (privado) | React Native/Expo, Prisma, PostgreSQL | En desarrollo |
+| [Tenzi](#tenzi) | `Mazielx/tenzi` (privado) | Next.js 16, Prisma, Tailwind | Frontend + modelo de datos |
+| [Ghork](#ghork) | `Mazielx/ghork` (privado) | Next.js 15, Prisma, Stripe | MVP + hardening |
 
 ---
 
