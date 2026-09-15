@@ -12,6 +12,9 @@ I build software faster and better using:
 
 ## Portfolio
 
+### Bitácora
+- [Bitácora de Desarrollo](./BITACORA.md) - Registro completo de avances, decisiones y habilidades por proyecto
+
 ### Case Studies
 - [Facturas - Invoice Management System](./case-studies/facturas.md) - Multi-tenant system built with AI assistance
 
